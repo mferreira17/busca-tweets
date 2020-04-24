@@ -16,6 +16,4 @@
 <p>Ao final será gerado um arquivo .jar, dentro da pasta target , com a nomenclatura <b>'vue-tweets-1.0.0.jar'</b>. A partir dai, resta somente executar o comando no terminal .: <b>java -jar vue-tweets-1.0.0.jar</b>. O sistema estará disponível no endereço 
 <a href="http://localhost:8081/"> http://localhost:8081/ </a> </p>
 
-<p>A aplicacao também esta disponibilizada no Heroku.</p>
 
-<a href="http://localhost"> Ver aplicação no Heroku </a>
